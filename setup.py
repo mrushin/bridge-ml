@@ -12,8 +12,8 @@ setup(
         "rdflib>=6.0.0",
         "owlready2>=0.36"
     ],
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Michael Rushin",
+    author_email="michael.r.rushin@gmail.com",
     description="Bi-directional Reasoning for Intelligence Data Graph Evolution Using Machine Learning",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
